@@ -1,7 +1,5 @@
 const textTranslations = [
-    "Strona dostępna wkrótce!",
-    "Mój profil GitHub",
-    "Strona narzędzia",
+    
 ];
 
 if (window.navigator.language.split("-")[0] == "pl") {
