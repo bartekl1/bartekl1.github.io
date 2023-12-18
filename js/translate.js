@@ -1,5 +1,5 @@
 const textTranslations = [
-    
+    "Profil GitHub"
 ];
 
 if (window.navigator.language.split("-")[0] == "pl") {
