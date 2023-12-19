@@ -1,5 +1,12 @@
 const textTranslations = [
-    "Profil GitHub"
+    "Profil GitHub",
+    "🛠 Narzędzia",
+    "Program do aktualizacji oprogramowania na systemie Windows",
+    "Strona z narzędziami matematycznymi i informatycznymi",
+    "Amatorska stacja meteo w Swarzędzu",
+    "Strona",
+    "Pobierz",
+    "Repozytorium GitHub",
 ];
 
 if (window.navigator.language.split("-")[0] == "pl") {
