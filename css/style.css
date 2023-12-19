@@ -46,3 +46,12 @@ body {
 .swarzedz-meteo-slide {
     background-image: url(/img/cloud.jpg);
 }
+
+footer {
+    width: 100%;
+
+    background-color: var(--bs-secondary-color);
+    color: #ffffff;
+
+    padding: 20px;
+}

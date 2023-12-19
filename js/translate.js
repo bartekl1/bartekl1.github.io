@@ -7,6 +7,8 @@ const textTranslations = [
     "Strona",
     "Pobierz",
     "Repozytorium GitHub",
+    "Autor",
+    "Wykorzystane zdjęcia pochodzą z platform",
 ];
 
 if (window.navigator.language.split("-")[0] == "pl") {
